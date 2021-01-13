@@ -1,3 +1,5 @@
+# folk from https://github.com/wzhe06/SparrowRecSys，在此基础上学习并修改，仅用于学习。
+
 # SparrowRecSys
 SparrowRecSys是一个电影推荐系统，名字SparrowRecSys（麻雀推荐系统），取自“麻雀虽小，五脏俱全”之意。项目是一个基于maven的混合语言项目，同时包含了TensorFlow，Spark，Jetty Server等推荐系统的不同模块。希望你能够利用SparrowRecSys进行推荐系统的学习，并有机会一起完善它。
 
