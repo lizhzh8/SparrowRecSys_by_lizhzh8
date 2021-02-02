@@ -64,8 +64,8 @@ public class RealTimeFeature_demo {
     public static void main(String[] args) throws Exception {
         new RealTimeFeature_demo().test();
     }
-
 }
+
 
 class ShowSinkFunction<T> implements org.apache.flink.streaming.api.functions.sink.SinkFunction<Rating_demo> {
     @Override
